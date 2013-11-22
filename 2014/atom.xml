@@ -5,17 +5,17 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>MountainWest RubyConf 2014</title>
- <link href="http://mtnwestjsconf.org/2014/atom.xml" rel="self"/>
- <link href="http://mtnwestjsconf.org/"/>
+ <link href="http://mtnwestjs.org/2014/atom.xml" rel="self"/>
+ <link href="http://mtnwestjs.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://mtnwestjsconf.org/</id>
+ <id>http://mtnwestjs.org/</id>
 
  {% for post in site.categories.2014 %}
  <entry>
    <title>{{ post.title | xml_escape }}</title>
-   <link href="http://mtnwestjsconf.org/2014/#{{ post.id | bookmark }}"/>
+   <link href="http://mtnwestjs.org/2014/#{{ post.id | bookmark }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://mtnwestjsconf.org/2014/#{{ post.id | bookmark }}</id>
+   <id>http://mtnwestjs.org/2014/#{{ post.id | bookmark }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
