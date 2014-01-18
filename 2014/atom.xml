@@ -4,9 +4,9 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>MountainWest RubyConf 2014</title>
- <link href="http://mtnwestjs.org/2014/atom.xml" rel="self"/>
- <link href="http://mtnwestjs.org/"/>
+ <title>MountainWest JavaScript 2014</title>
+ <link href="http://mtnwestrubyconf.org/2014/atom.xml" rel="self"/>
+ <link href="http://mtnwestrubyconf.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://mtnwestjs.org/</id>
 
