@@ -181,11 +181,7 @@
     JavaScript allows us to define complex behavior as well as respond to events. Modern browsers give us JavaScript APIs that are optimized for animation timing, but we still only get 16 milliseconds to render. Alternatively, CSS handles the heavy lifting of timing and rendering for us. However, it is often not as flexible as JavaScript and therefore has different use cases. How do we know what language is best for the job?
 
     In addition to APIs, high-quality animation requires effective workflows and tooling. With animation being such a visual craft, text-based workflows will only get us so far. In this session, we will explore some of the visual tools to help us build better animations more easily than ever before.
-  biography: Jeremy is a New Products Developer at Jellyvision in Chicago. Previously,
-    he worked at YouTube as a Web Developer. Jeremy spends a lot of time developing
-    and shipping open source projects, many of which focus on making web animation
-    easy and fun. He actively engages the web development community though blogging,
-    speaking, and screencasting. His goal is to inspire at scale.
+  biography: Jeremy is a New Products Developer at Jellyvision in Chicago. Jeremy spends a lot of time developing and shipping open source projects, many of which focus on making web animation easy and fun. He actively engages the web development community though blogging, speaking, and screencasting. His goal is to inspire at scale.
 - name: Brandon Hays
   twitter: tehviking
   github: tehviking
