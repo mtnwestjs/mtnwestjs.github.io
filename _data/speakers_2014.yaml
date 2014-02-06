@@ -3,10 +3,9 @@
   twitter: floydophone
   github: petehunt
   gravatar: 14d9b5d1bb7b9696ea96d98b14cf5909
-  title: To Be Announced
-  description: |-
-    Coming soon.
-  biography: Pete knows stuff.
+  title: Be predictable, not correct.
+  description: Functional programming is a great way of managing complexity in user interfaces. User interfaces are very difficult to build due to the difficulty in determining if they’re “correct” or not. In this talk I’ll go into some ways that functional programming techniques like referential transparency and immutability can lead to easier-to-build user interfaces.
+  biography: Pete leads the Instagram web team and is a React core team member. When he’s not hacking he’s playing 90s songs on his guitar.
 - name: Kassandra Perch
   twitter: kassandra_perch
   github: kperch
