@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!--[if lt IE 9]>
+    <script src="/2015/javascripts/html5shiv.js"></script>
+    <![endif]-->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    
+    <meta http-equiv="content-language" content="en">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png" />
+    <title>
+      MountainWest JavaScript 2015{% if page.title %}: {{ page.title }}{% endif %}
+   </title> 
+  <script type="text/javascript" src="//use.typekit.net/kzb3rbd.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>    
+    
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="/2015/stylesheets/screen.css" >
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
+  </head>
+  <body class="page">
+
+    <span class="page__icon_large"><a href="/" class="page__icon__link"></a></span>
+    <span class="page__icon_small"><a href="/" class="page__icon__link"></a></span>
+    <header class="page__header">
+      <nav class="nav-bar">
+        <div class="page__wrapper">
+          <ul class="nav float-left">
+            <li class="nav__item">
+              <a href="/2015" class="nav__link">Home</a>
+            </li>
+            <li class="nav__item">
+              <a href="/2015/policies" class="nav__link">Policies</a>
+            </li>
+          </ul>
+          <ul class="nav float-right">
+            <li class="nav__item">
+              <a href="http://mtnwestrubyconf.org/2015" class="nav__link">MWRC 2015</a>
+            </li>
+            <li class="nav__item">
+              <a href="http://www.ng-conf.org/" class="nav__link">ng-conf 2015</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <section class="page__hero">
+      <div class="page__wrapper">
+        <div class="g g_full">
+          <section class="page__logotype">
+          </section>
+
+          <nav class="nav nav__page-info">
+            <ul>
+              <li class="nav__item">
+               <i>&diams;</i>  <span>March 3-4, 2015</span> <i>&diams;</i>
+              </li>
+              <li class="nav__item float-right">
+                <i>&diams;</i>  <span>Salt Lake City, Utah</span> <i>&diams;  </i>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </section>
+
+    <div class="page__wrapper">
+      <div class="page__body">
+
+        {% if page.heading %}
+        <header class="page__body__header header_bar">
+          <h2 class="header__heading">{{ page.heading }}</h2>
+        </header>
+        {% endif %}
+
+        {{content}}
+
+        <footer class="page__body__footer">
+          <a href="https://twitter.com/mtnwestjs" class="circle circle_social">
+            <i class="icon icon_large icon_twitter_large">
+            </i>
+          </a>
+        </footer>
+      </div>
+    </div>
+
+    <footer class="page__footer">
+      &copy; <a href="http://humanecode.com/">HumaneCode</a>
+    </footer>
+    <script type="text/javascript">
+      var $document = $(document),
+          $element = $('.nav-bar'),
+          className = 'is-scrolled';
+
+      $document.scroll(function() {
+        $element.toggleClass(className, $document.scrollTop() >= 50);
+      });
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-2009884-6', 'mtnwestjs.org');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>
