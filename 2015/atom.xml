@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>MountainWest JavaScript 2015</title>
- <link href="http://mtnwestrubyconf.org/2015/atom.xml" rel="self"/>
- <link href="http://mtnwestrubyconf.org/"/>
+ <link href="http://mtnwestjs.org/2015/atom.xml" rel="self"/>
+ <link href="http://mtnwestjs.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://mtnwestjs.org/</id>
 
