@@ -1,0 +1,283 @@
+---
+- name: John Brown
+  avatar: https://avatars.githubusercontent.com/thisisjohnbrown
+  github: thisisjohnbrown
+  twitter: thisisjohnbrown
+  title: "(Math == Art && Art == Code)"
+  description: |-
+    The formula for a Bezier curve is beautiful. Using sine and cosine to create orbiting objects is dazzling. L-systems create fractals through elegant simplicity. Developers, as a group, may be losing site of the beauty that code can create. Designers by the bunch are picking up a keyboard and creating amazing pieces, but it's happening the other way very slowly. That's a shame, because the computer lets otherwise unexpressed ideas go unexplored.
+
+    Javascript developers, in particular, have the ability to embrace the art of programming and the art of art because of the myriad frameworks available. Use Node and JS to make some art, whether it’s in the browser or in the physical realm. Walk away with the confidence and the inspiration to put down the work for a minute and pick up a digital paintbrush.
+  biography: John Brown is a Swiss Army knife developer. He co-runs the creative code
+    group in Portland, OR, is active in the code art community, and is on a quest
+    to get all developers to make art with their code. His art is usually an interplay
+    between physical and digital, with heavy hits of interactivity. John is a Technical
+    Director at Instrument.
+- name: Whitney Williams
+  avatar: https://avatars.githubusercontent.com/wweliz
+  github: wweliz
+  twitter: whitneyhacks
+  title: 6 Design Skills Devs Need
+  description: |-
+    The belief that design and development have competing interests can stand in the way of successful collaboration. In reality, the principles of good design often mirror those of good development.
+
+    In this talk, we'll take a look at design skills that translate well into development, encouraging effective communication among members of both teams. By throwing away stereotypes and working together, we can harness the unique skillsets of designers and developers to push the boundaries of technology.
+  biography: Whitney Williams is a designer-turned-developer from Greenville, SC.
+    After falling in love with modernist art and design in Germany, she returned home
+    to work in print and packaging. Whitney discovered her passion for code and the
+    web by accident, and hasn’t looked back since. When she isn’t coding, Whitney
+    writes about making the transition from designer to developer, teaches HTML and
+    CSS to cute little kids, and is up for any adventure that adds stamps to her passport.
+- name: Lin Clark
+  avatar: https://avatars.githubusercontent.com/linclark
+  github: linclark
+  twitter: linclark
+  title: 'Oh, the pain: Team development workflows and pain mitigation with npm'
+  description: Developing on teams can be painful. From broken builds to failing tests,
+    there are all sorts of torments that your colleagues can heap upon you... but
+    there are tools to help. See how some of the lesser known features of npm can
+    be used as part of your team's workflow to alleviate some of this pain.
+  biography: Lin Clark is the Dev Star at npm, Inc. Prior to npm, she worked as a
+    technical lead on a team of developers and also as a core module maintainer on
+    a large open source CMS. She also contributed to many open source projects and
+    was involved in W3C standardization efforts. Together these experiences sparked
+    the passion for good team development practices which inspired this talk.
+- name: Merrick Christensen
+  avatar: https://avatars.githubusercontent.com/iammerrick
+  github: iammerrick
+  twitter: iammerrick
+  title: The Frankenstein Framework - The polyglot future of the web.
+  description: The web as a platform has historically made sharing code very difficult.
+    However, thanks to ES6 modules this is a problem of the past allowing us to combine
+    toolsets in ways we never could before. What happens when you take Backbone's
+    Models, Angular 2's DI, React, maybe even some Ember Router then leverage them
+    together in a project? The Frankenstein Framework. The time of "choosing a framework"
+    is dead, compose your own frameworks today thanks to the power of ES6. (Webpack
+    until ES6 is around for reals.)
+  biography: I am a kind chap. Organizer of ng-conf. Contributor to Angular. React
+    fan. Occasional podcast visitor. And all around technical enthusiast. Long live
+    the open web!
+- name: Justin Searls
+  avatar: https://avatars.githubusercontent.com/searls
+  github: searls
+  twitter: searls
+  title: The Social Coding Contract
+  description: |-
+    Social coding revolutionized how we share useful code with others. Bundler, npm, and Github made publishing and consuming code so convenient that our dependencies have become smaller and more numerous. Nowadays, most projects quickly resemble a Jenga tower, with layer upon layer of poorly understood single points of failure.
+
+    Despite our progress, we'd benefit from pausing to reflect on our relationship with open source. Convenience and ego drive most open source adoption, but these shortsighted motivations raise long-term problems we need to clearly identify if we can ever hope to solve them.
+  biography: 'Justin Searls has two professional passions: writing great software
+    and sharing what he’s learned to help others write even greater software. He helped
+    start a software agency called Test Double, whose crack team of double agents
+    solve complex problems with clean and simple solutions.'
+- name: Jafar Husain
+  avatar: https://avatars.githubusercontent.com/Jhusain
+  github: Jhusain
+  twitter: jhusain
+  title: 'JavaScript 7: the Evolution of JavaScript'
+  description: |-
+    Many web developers are already familiar with JavaScript 6. Maybe you are already using a transpiler and have gotten a glimpse of how much easier JavaScript development can be with features like arrow functions, generators, and destructuring. You may be surprised to learn that JavaScript 6 is only the beginning. The committee is already hard at work on JavaScript 7, and it's not too early to get a glimpse of some of the features being proposed. While version 6 brought JavaScript to parity with other popular scripting languages, version 7 may introduce powerful new features never seen in a popular programming language. Imagine building an entire JavaScript program without a single callback, and being able to build asynchronous programs with simple primitives like loops.
+
+    Some of these features have already appeared in modern browsers, and it's not too early to start playing with them. Come glimpse into the future and start thinking about how to write forward compatible JavaScript applications today.
+  biography: Jafar Husain is the Cross-Team Technical Lead for the Netflix UI's. He
+    is the architect of Netflix's UI data platform, and specializes in building reactive,
+    event-driven systems. A highly-rated speaker, he has spoken at QCon, HTML Dev
+    Conf, QCon, CodeMesh, YOW! and given Channel 9 interviews. He has also trained
+    hundreds of developers to build event-driven systems in JS. He is the Netflix
+    representative on the JavaScript standards committee (TC-39) and is actively working
+    to evolve the JavaScript language.
+- name: Josh Robertson
+  avatar: https://avatars.githubusercontent.com/Hossman333
+  github: Hossman333
+  twitter: hossman333
+  title: Hardware APIs
+  description: The browser provides a lot of low level APIs. Unfortunately  wanting
+    to write JavaScript for hardware can be a hassle if the libraries only exist in
+    certain languages. This can be solved by writing your own APIs, and wrappers.
+    Write high level code to communicate with hardware.
+  biography: High school student. Work at Domo. Made siliconslopes.com. Super passionate
+    about technology. Made a life size version of the phone app "white tiles" with
+    hardware.
+- name: Zean Tsoi
+  avatar: https://avatars.githubusercontent.com/zeantsoi
+  github: zeantsoi
+  twitter: zeantsoi
+  title: ReactJS as the MVC
+  description: |-
+    React is heralded for its use in beautiful and intuitive user interfaces. It's most commonly invoked as a pure view layer, where data management and business logic is handled by other means. However, when React is extended to encompass the facets of both the client-side model and controller, the result can be faster and more scalable than using React for the view layer alone.
+
+    At reddit, our front-end stack integrates React with JavaScript abstractions to create a powerful and flexible MVC. It's fast, scalable, and exposes positive side-effects that are made possible when React is appreciated as being more than "just the view".
+  biography: |-
+    Zean Tsoi is a full-stack engineer at reddit, Inc. He was lead engineer for redditmade, reddit's crowdfunding platform. He is currently assigned to develop emerging products and initiatives.
+
+    Prior to reddit, Zean was a developer at Super Top Secret, developing projects for clients including Gold's Gym, Reef, and Adrenaline Lacrosse. His work on the Jaybird Reign iOS app was awarded SlashGear's Best Wearable Tech of CES 2014, Engadget's Best Digital Health & Fitness Product, and Outdoor Retailer 2014 Gear of the Show.
+
+    Zean splits his time between SLC and San Francisco, where he lives with his wife, dog, and cat.
+- name: Cameron Matheson
+  avatar: https://avatars.githubusercontent.com/cmatheson
+  github: cmatheson
+  twitter: cmatheson
+  title: Gradual Typing is the best!
+  description: The JS world is rich in gradually typed programming languages (TypeScript,
+    Flow, and even ActionScript (sort of)).  This talk will give some motivation for
+    gradual typing and a brief history.  Also a comparison of the kind of errors TypeScript
+    and Flow will catch.
+  biography: I am an engineer at Instructure by day, programming languages nerd at
+    night.
+- name: Jason Dobry
+  avatar: https://avatars.githubusercontent.com/jmdobry
+  github: jmdobry
+  twitter: jmdobry
+  title: Give your Data the Respect it Deserves
+  description: Your data is one of your most valuable assets, and it deserves your
+    respect. The JSData project (https://github.com/js-data) brings a robust, framework-agnostic
+    data layer to the masses. Forget fleets of boilerplate services and dissatisfactory
+    (read buggy) data management, JSData supercharges your RESTful (and not so RESTful)
+    data and makes handling it a breeze. Primed to grant any JavaScript app wisdom
+    beyond its youth, JSData employs various adapters to talk to HTTP, localStorage,
+    Firebase and <insert storage layer name here>. An in-memory store gives you a
+    slick interface for interacting with your data, regardless of where it came from
+    or where it's going. Switch frameworks while leaving your data layer intact! For
+    ages 3 and up and those who above all else, desire power (over their data).
+  biography: Husband. Father. Software Engineer. Open Source Hacker. Outdoor Adventurer.
+    Soccer Fanatic. Always Learning.
+- name: Steve Lacy
+  avatar: https://avatars.githubusercontent.com/stevelacy
+  github: stevelacy
+  twitter: SteveDeLacy
+  title: The Death of "Write Once, Run Everywhere"
+  description: "We've all been sold the tale that with one codebase we can support
+    almost any platform you can imagine. After years of using these tools, nothing
+    has really seemed to solve this problem well. Even when applications are built
+    with tools like Phonegap, they never really \"feel\" right and fail to live up
+    to native user experience expectations. Is this a fundamental failure of the idea
+    \"Write Once, Run Everywhere\" or a failure of tooling? \n\nIn this talk I will
+    discuss the future of building real mobile applications using web technologies,
+    and the alternate idea \"Learn Once, Write Everywhere\". You will hear about react-native,
+    UX, Phonegap, Titanium, Trigger.io, and the future of mobile web applications."
+  biography: Software engineer @ Fractal working on the future of the open web. Open
+    source, classical music, and martial arts.
+- name: Dave Smith
+  avatar: https://avatars.githubusercontent.com/djsmith42
+  github: djsmith42
+  twitter: djsmith42
+  title: Essential Big O for JavaScript Developers
+  description: What every JavaScript developer should know about Big O notation. Computer
+    science can be intimidating, and Big O is no exception. Let's break it down. Understanding
+    the time complexity of common JavaScript operations can make your code faster
+    and make you smarter. Not to mention, who doesn't want to toss around words like
+    "linearithmic" and "amortized logarithmic" in dinner conversation?
+  biography: 'I gave a version of this talk at the June 2014 UtahJS annual conference
+    to a small audience of about 30 people. It was very well received. Since then,
+    I''ve polished it and I''d like to give it to a larger audience. Several people
+    commented that they really enjoyed the talk. You can see some of the feedback
+    here: https://twitter.com/djsmith42/status/474947218902753280'
+- name: Gord Tanner
+  avatar: https://avatars.githubusercontent.com/gtanner
+  github: gtanner
+  twitter: gordtanner
+  title: Why would we ever build a distributed computing platform in node?
+  description: "bitHound is a JavaScript shop.  We have been working with JavaScript
+    for a few years and have a major appreciation for the power and speed of which
+    we can build in nodeJS.  When we set out to start building bitHound, we made sure
+    that we were able to use it to analyze itself to hone the tools.\n\nJavaScript
+    is a great language but doesn't come without it's challenges.  We will cover the
+    lessons learned on our path to developing our distributed compute platform.   \n\nSpecific
+    topics that will be covered throughout include:\n\n- Brokerless / brokered messaging\n-
+    Designing for a generic compute note architecture\n- Limitations of node and JavaScript
+    for parallel tasks\n- Using non-blocking io to speed up large jobs\n- When and
+    how to split long running tasks\n- Handling failure\n- Using metrics to improve
+    architecture and performance\n"
+  biography: Gord Tanner brings over 10 years of experience in software development
+    and big data analytics to the team. Gord was an employee at tinyHippos and played
+    a key role in its success. Gord is currently the lead developer for the open source
+    project Ripple, which is used by over 250K developers. Gord co-founded bitHound
+    taking on the role of CTO.
+- name: Jeremy Lund
+  avatar: https://avatars.githubusercontent.com/lund0n
+  github: lund0n
+  twitter: Jeremy_Lund
+  title: Gift Wrap Your Code with Webpack
+  description: While there have been JavaScript module loaders available for some
+    time now, none of them are quite like Webpack. I will talk about what Webpack
+    is, how it can help you in your web projects, and demonstrate all of the powerful
+    ways you can package your code for the front end using Webpack. Finally, I’ll
+    demonstrate some ways to consume third-party modules using Webpack.
+  biography: Jeremy is the principal front end engineer at AtTask, and has been doing
+    web development for over fifteen years. Although many of those fifteen years has
+    been spent doing Java development, he has found the front end to be a fun new
+    challenge to tackle over the last three years. He love clean, beautiful, well-tested
+    code and Pepsi.
+- name: Gleb Bahmutov
+  avatar: https://avatars.githubusercontent.com/bahmutov
+  github: bahmutov
+  twitter: bahmutov
+  title: Journey from procedural to reactive JavaScript with stops
+  description: |-
+    JavaScript is an interesting language. It can mimic almost any style you want: procedural, object-oriented, functional, etc.
+    In this presentation I will take a simple problem and will solve it using different approaches. With each step
+    we will see the power of each approach to take the complexity away, while still being the JavaScript we all love to hate.
+    The following topics will be shown:
+    procedural (imperative) style
+    object-oriented
+    functional
+    point-free
+    lazy evaluation
+    immutable data
+    async processing using promises
+    async processing using event emitters
+    reactive programming using event streams
+
+    Any team looking to improve its code should attend this presentation. Making a leap from object-oriented approach to reactive programming is too difficult, but you can make it step by step.
+  biography: Gleb Bahmutov is JavaScript ninja, image processing expert and software
+    quality fanatic. After receiving a PhD in computer science from Purdue University,
+    Gleb worked on laser scanners, 3D reconstruction, and panorama-based virtual tours
+    at EveryScape. Later Gleb switched to writing browser data visualization software
+    at MathWorks. After a year, Gleb went back to the startup environment and developed
+    software quality analysis tools at uTest (now Applause). Today Gleb is developing
+    real-time financial analysis tools at Kensho. He blogs about software development
+    topics at http://bahmutov.calepin.co/ and links his projects at http://glebbahmutov.com/.
+    You can follow him and his work @bahmutov
+- name: Kyle Tyacke
+  avatar: https://avatars.githubusercontent.com/ktyacke
+  github: ktyacke
+  twitter: geekgonenomad
+  title: How HTML5 Killed My Career!
+  description: |-
+    In the early days of my career, things were simple. When it came to streaming media, real-time communications, and all things peer-to-peer, there was really only one choice: Flash. And as someone who knew how to wield Flash, life was pretty good! That is until HTML5, and its’ little buddy CSS3 came around. Suddenly there were options. Options that allowed developers to create a single application that would run on multiple devices. The whispers started. Flash is dying. Flash is dead. And then came WebRTC…
+
+    In this retrospective, we’ll look back at the beginnings of real-time communications on the web. We’ll discuss HTML5, and how it took Flash from being the King of the interactive web to near extinction. Finally, and most importantly, we’ll take a look at WebRTC, getting you up to speed on the very tools that put the final nail in Flash’s coffin, and ensuring you’re ready for whatever comes next!
+  biography: Kyle Tyacke is a recovering Flash Developer, now calming the itch with
+    heavy doses of Javascript and HTML. In his former life he founded the San Diego
+    Flash Users Group, was active in the Adobe Developer community, and spent 10 years
+    working as a freelance developer. Now a Developer Evangelist for Respoke, Kyle
+    spends his days focused on introducing WebRTC to the world and preparing developers
+    for the communications revolution.
+- name: Jonathan Martin
+  avatar: https://avatars.githubusercontent.com/nybblr
+  github: nybblr
+  twitter: nybblr
+  title: You Won’t Believe This One Weird Way to Rewrite Closures
+  description: |-
+    Closures are undoubtedly the most powerful feature JavaScript inherited from its Lisp forbears. But would JS be so powerful… without them?
+
+    We’ll reimplement closures entirely from scratch without the convenience of native local variables or function parameters. Entirely in JavaScript. Using prototypal inheritance, some clever hat-tips from graphics programming, amnesic function bodies, and this one weird global variable.
+  biography: |-
+    Jonathan Martin is a Rails developer and frontend instructor at Big Nerd Ranch. He makes the world a better place for consulting clients with passionate attention to quality code design, and bores students with the “wats” of JavaScript in the Ranch’s immersive HTML5 bootcamp.
+
+    Outside the Ranch, he is a classically trained violinist and skilled dancer, and is disconcertingly fond of books (he’s been through *Lord of the Rings* twenty times) and cheesecake.
+- name: Bret Little
+  avatar: https://avatars.githubusercontent.com/blittle
+  github: blittle
+  twitter: little_bret
+  title: Making Offline Suck Less with Service Workers
+  description: One of the main reasons native apps are often chosen over web apps
+    is that the web totally sucks in providing a decent offline experience. Come learn
+    about the next step forward in the evolution of web app development where I will
+    introduce the service worker and cache APIs which allow for creating robust offline
+    (and concurrent) web applications.
+  biography: Bret is an avid web developer with a background in physics and astronomy.
+    He loves JavaScript and front-end web development. In addition to being the lead
+    front-end architect on multiple large scale projects, Bret has built a variety
+    of open source components for Angular, Backbone, Grunt, Bower and others. He is
+    currently co-authoring a book on astronomy. He cannot straighten his pinky fingers.
