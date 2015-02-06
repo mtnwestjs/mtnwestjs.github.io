@@ -167,11 +167,9 @@
     the time complexity of common JavaScript operations can make your code faster
     and make you smarter. Not to mention, who doesn't want to toss around words like
     "linearithmic" and "amortized logarithmic" in dinner conversation?
-  biography: 'I gave a version of this talk at the June 2014 UtahJS annual conference
-    to a small audience of about 30 people. It was very well received. Since then,
-    I''ve polished it and I''d like to give it to a larger audience. Several people
-    commented that they really enjoyed the talk. You can see some of the feedback
-    here: https://twitter.com/djsmith42/status/474947218902753280'
+  biography: Dave loves writing code. He has worked on projects ranging in size from tiny
+    embedded devices to large, distributed systems. He got his start on a TI-82 calculator
+    in high school and has never stopped coding since then.
 - name: Gord Tanner
   avatar: https://avatars.githubusercontent.com/gtanner
   github: gtanner
