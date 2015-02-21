@@ -1,4 +1,11 @@
 ---
+- name: Abraham Sangha
+  avatar: https://avatars.githubusercontent.com/abrahamsangha
+  github: abrahamsangha
+  twitter: abrahamsangha
+  title: "TDD for Your Soul: Virtue and Web Development"
+  description: Web development pushes us to our limits, not only of cognition, but, perhaps surprisingly, of character. Using the cardinal virtues as a framework, we can see that developers need courage to learn, temperance to prioritize goals, a sense of justice by which to discern, and wisdom to act. By being honest about where we lack virtue, implementing steps to develop character, and resisting shame, we can perform TDD on ourselves. This process can help us grow not only as coders, but as human beings.
+  biography: Abraham’s first taste of programming was writing violent choose-your-own-adventure games in TI-BASIC on his graphing calculator instead of paying attention during algebra class. A former civil engineer and minister, he learned web development through Dev Bootcamp Chicago and is currently solving problems in advertising technology as a software engineer at Centro. He studied the virtuous life in graduate school but has still failed to obtain it.
 - name: John Brown
   avatar: https://avatars.githubusercontent.com/thisisjohnbrown
   github: thisisjohnbrown
@@ -28,20 +35,6 @@
     web by accident, and hasn’t looked back since. When she isn’t coding, Whitney
     writes about making the transition from designer to developer, teaches HTML and
     CSS to cute little kids, and is up for any adventure that adds stamps to her passport.
-- name: Lin Clark
-  avatar: https://avatars.githubusercontent.com/linclark
-  github: linclark
-  twitter: linclark
-  title: 'Oh, the pain: Team development workflows and pain mitigation with npm'
-  description: Developing on teams can be painful. From broken builds to failing tests,
-    there are all sorts of torments that your colleagues can heap upon you... but
-    there are tools to help. See how some of the lesser known features of npm can
-    be used as part of your team's workflow to alleviate some of this pain.
-  biography: Lin Clark is the Dev Star at npm, Inc. Prior to npm, she worked as a
-    technical lead on a team of developers and also as a core module maintainer on
-    a large open source CMS. She also contributed to many open source projects and
-    was involved in W3C standardization efforts. Together these experiences sparked
-    the passion for good team development practices which inspired this talk.
 - name: Merrick Christensen
   avatar: https://avatars.githubusercontent.com/iammerrick
   github: iammerrick
@@ -279,3 +272,24 @@
     front-end architect on multiple large scale projects, Bret has built a variety
     of open source components for Angular, Backbone, Grunt, Bower and others. He is
     currently co-authoring a book on astronomy. He cannot straighten his pinky fingers.
+- name: Brad Midgley
+  avatar: https://avatars.githubusercontent.com/bmidgley
+  github: bmidgley
+  twitter: bmidgley
+  title: Robots love javascript (too)
+  description: |-
+    We need to turn the page on the idea that kids should learn programming by building flow charts. But this will typically be their first exposure if they start out in robotics. 
+
+    Robotics is an exciting place to try out a programming idea because the surface area of your app, the part that interacts with the world, becomes immense. An idea that could be written off as passable UI or workable modeling might literally crash and burn when faced with interacting in an unforgiving world.
+
+    Let's chat about why the correct model for programming bots and for modeling behavior is a hierarchical state machine. It sounds complicated but everyone can understand when it's related to how we think about solving problems as people in the world. This opens doors for fun concepts like machine learning and genetic programming. Plus we can build this in javascript and put it to work in the field to find out right away what works and what doesn't.
+
+    I'll demonstrate this running in a javascript framework running on the FirefoxOS phone. This is a phone that makes you code and love doing things with only javascript.
+  biography: Brad Midgley has been writing software for 20 years or so, including lots of mobile and ruby development. But more importantly, he's been trying all this time to get people to take note of our great accomplishments like crashing a probe into a comet, making robots pilot themselves across Mars, or making swarms of things that have a mind of their own.
+- name: Tyler McGinnis
+  avatar: https://avatars.githubusercontent.com/tylermcginnis
+  github: tylermcginnis
+  twitter: tylermcginnis33
+  title: "What I've Learned about Learning from Teaching People to Code"
+  description: If you're a front-end developer and you hate learning, you're going to have a bad time. Over the past few years I've taught hundreds of people to learn to code. Along the way I've gathered invaluable insights into the way we learn and what helps us to learn most effectively. In this talk I'll be discussing these insights and how you can more effectively keep up with the quickly changing front-end developer landscape. 
+  biography: "Tyler is a member of the Firebase experts program and the lead instructor of DevMountain, a learn to code bootcamp in Provo, Utah. Writing in the third person makes him feel uncomfortable and he is very proud that he ranks at the top of Google for the keywords 'JavaScript George Clooney'."
